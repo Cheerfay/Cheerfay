@@ -20,9 +20,9 @@ picks or price predictions.
 
 ### [Time to Walk](https://chromewebstore.google.com/detail/jcbldmgghanpecpbcmjdhbijjffoackf)
 
-A lightweight Chrome extension that turns “time's up” into “stand up.”
-Pomodoro-style focus intervals, fullscreen reminders, and no accounts or
-analytics.
+Focus, stand, repeat. A lightweight Chrome extension that uses Pomodoro-style
+timers and fullscreen reminders to build movement into your work rhythm—even
+one second counts.
 
 → [Product notes](https://github.com/Cheerfay/time-to-walk)  
 <sub>Chrome Web Store availability varies by region.</sub>
