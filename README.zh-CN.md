@@ -19,7 +19,7 @@ AI 产品，从 0→1 一直做到生产上线。
 ### [Time to Walk / 久坐提醒](https://chromewebstore.google.com/detail/jcbldmgghanpecpbcmjdhbijjffoackf)
 
 一款轻量的 Chrome 插件，把“时间到了”变成“站起来吧”。提供番茄钟式专注计时
-和全屏提醒，无需注册，也不使用数据分析。
+和全屏提醒。
 
 → [产品介绍](https://github.com/Cheerfay/time-to-walk)  
 <sub>部分地区可能无法直接访问 Chrome 应用商店。</sub>
