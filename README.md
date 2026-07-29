@@ -14,7 +14,7 @@ A decision pause before emotional trades. It helps people slow down, examine
 their reasoning and position rhythm, and make their own decision—without stock
 picks or price predictions.
 
-→ [Product notes](https://github.com/Cheerfay/trade-self-check)
+→ [Product notes](https://github.com/Cheerfay/trade-self-check-product)
 
 ### [Time to Walk](https://chromewebstore.google.com/detail/jcbldmgghanpecpbcmjdhbijjffoackf)
 
