@@ -1,5 +1,7 @@
 # Hi, I'm Faye 👋
 
+[English](README.md) | [简体中文](README.zh-CN.md)
+
 **AI Product Manager & indie builder.** I turn real workflows into useful AI
 products—from 0→1 to production.
 
