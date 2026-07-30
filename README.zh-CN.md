@@ -24,7 +24,7 @@ AI 产品，从 0→1 一直做到生产上线。
 → [产品介绍](https://github.com/Cheerfay/time-to-walk)  
 <sub>部分地区可能无法直接访问 Chrome 应用商店。</sub>
 
-### [Cuoluo Studio / 错落 Studio](https://github.com/Cheerfay/cuoluo-studio)
+### [Cuoluo Studio / 错落 Studio](https://cuoluostudio.com/zh)
 
 我的公开工作台，用来收纳小产品、开放方法、工具，以及关于独立创造的记录。
 

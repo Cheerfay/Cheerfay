@@ -27,7 +27,7 @@ one second counts.
 → [Product notes](https://github.com/Cheerfay/time-to-walk)  
 <sub>Chrome Web Store availability varies by region.</sub>
 
-### [Cuoluo Studio](https://github.com/Cheerfay/cuoluo-studio)
+### [Cuoluo Studio](https://cuoluostudio.com/)
 
 My public workbench for small products, open methods, tools, and notes about
 independent creation.
