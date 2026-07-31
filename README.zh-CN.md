@@ -2,8 +2,7 @@
 
 [English](README.md) | [简体中文](README.zh-CN.md)
 
-**AI 产品经理，也是独立开发者。** 我把真实世界里的工作流程变成有用的
-AI 产品，从 0→1 一直做到生产上线。
+**AI 产品经理，也是独立开发者。** 我把真实世界里的工作流程变成有用的 AI 产品，从 0→1 一直做到生产上线。
 
 我喜欢为那些需要多一点清晰、少一点阻力的时刻，做安静而专注的工具。
 
@@ -11,15 +10,13 @@ AI 产品，从 0→1 一直做到生产上线。
 
 ### [Trade Self-Check / 交易冷静卡](https://tradeselfcheck.com)
 
-在情绪化交易之前，先暂停一下。它帮助用户看清自己的理由、情绪和仓位节奏，
-再自行做出决定——不荐股，也不预测价格。
+在情绪化交易之前，先暂停一下。它帮助用户看清自己的理由、情绪和仓位节奏，再自行做出决定——不荐股，也不预测价格。
 
 → [产品介绍](https://github.com/Cheerfay/trade-self-check-product)
 
 ### [Time to Walk / 久坐提醒](https://chromewebstore.google.com/detail/jcbldmgghanpecpbcmjdhbijjffoackf)
 
-专注，起身，再继续。一款用番茄钟式计时与全屏提醒，把活动自然融入工作节律的
-轻量 Chrome 插件——哪怕只站一秒，也算数。
+专注，起身，再继续。一款用番茄钟式计时与全屏提醒，把活动自然融入工作节律的轻量 Chrome 插件——哪怕只站一秒，也算数。
 
 → [产品介绍](https://github.com/Cheerfay/time-to-walk)  
 <sub>部分地区可能无法直接访问 Chrome 应用商店。</sub>
@@ -36,8 +33,7 @@ AI 产品，从 0→1 一直做到生产上线。
 
 AI 搜索 · RAG 与智能体 · 决策支持系统 · 工作流自动化
 
-过去，我做过汽车、保险和客户服务领域的 AI 产品。现在，我也会从观察一个真实
-问题开始，完成产品判断、原型、实现和上线的完整过程。
+过去，我做过汽车、保险和客户服务领域的 AI 产品。现在，我也会从观察一个真实问题开始，完成产品判断、原型、实现和上线的完整过程。
 
 ## 我的构建方式
 
@@ -53,5 +49,4 @@ Supabase/PostgreSQL · Drizzle ORM · Better Auth · Vercel
 
 ## 找到我
 
-[Trade Self-Check](https://tradeselfcheck.com) ·
-[X / @fayemakesit](https://x.com/fayemakesit)
+[Trade Self-Check](https://tradeselfcheck.com) · [X / @fayemakesit](https://x.com/fayemakesit)
