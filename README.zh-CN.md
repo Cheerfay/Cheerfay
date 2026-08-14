@@ -8,17 +8,18 @@
 
 ## 正在做
 
-### [Trade Self-Check / 交易冷静卡](https://tradeselfcheck.com)
+### [Checkzi](https://checkzi.app/zh)
 
-在情绪化交易之前，先暂停一下。它帮助用户看清自己的理由、情绪和仓位节奏，再自行做出决定——不荐股，也不预测价格。
+一个面向重要决定的自查平台。当情绪可能跑在判断前面时，先把决定写下来，再看清是什么在推动自己。[Checkzi Trade](https://checkzi.app/zh) 是目前首个、也是唯一已经上线的场景，帮助用户在交易前检查理由、仓位和情绪，再自行做出决定。
 
 → [产品介绍](https://github.com/Cheerfay/trade-self-check-product)
 
 ### [Time to Walk / 久坐提醒](https://chromewebstore.google.com/detail/jcbldmgghanpecpbcmjdhbijjffoackf)
 
-专注，起身，再继续。一款用番茄钟式计时与全屏提醒，把活动自然融入工作节律的轻量 Chrome 插件——哪怕只站一秒，也算数。
+专注，起身，再继续。一款用番茄钟式计时与全屏提醒，把活动自然融入工作节律的轻量 Chrome 插件，哪怕只站一秒，也算数。
 
-→ [产品介绍](https://github.com/Cheerfay/time-to-walk)  
+→ [产品介绍](https://github.com/Cheerfay/time-to-walk)
+
 <sub>部分地区可能无法直接访问 Chrome 应用商店。</sub>
 
 ### [Cuoluo Studio / 错落 Studio](https://cuoluostudio.com/zh)
@@ -43,10 +44,11 @@ AI 搜索 · RAG 与智能体 · 决策支持系统 · 工作流自动化
 
 ## 常用技术栈
 
-TypeScript · React · TanStack Start · Vite · Tailwind CSS  
-Supabase/PostgreSQL · Drizzle ORM · Better Auth · Vercel  
+TypeScript · React · TanStack Start · Vite · Tailwind CSS<br>
+Supabase/PostgreSQL · Drizzle ORM · Better Auth · Vercel<br>
 大语言模型 · RAG · 智能体 · Function Calling
 
 ## 找到我
 
-[Trade Self-Check](https://tradeselfcheck.com) · [X / @fayemakesit](https://x.com/fayemakesit)
+[Checkzi](https://checkzi.app/zh) · [错落 Studio](https://cuoluostudio.com/zh) ·
+[X / @fayemakesit](https://x.com/fayemakesit)
