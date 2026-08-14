@@ -3,28 +3,30 @@
 [English](README.md) | [简体中文](README.zh-CN.md)
 
 **AI Product Manager & indie builder.** I turn real workflows into useful AI
-products—from 0→1 to production.
+products, from 0→1 to production.
 
 I like building calm, focused tools for moments when people need a little more
 clarity and a little less friction.
 
 ## Now building
 
-### [Trade Self-Check](https://tradeselfcheck.com)
+### [Checkzi](https://checkzi.app/)
 
-A decision pause before emotional trades. It helps people slow down, examine
-their reasoning and position rhythm, and make their own decision—without stock
-picks or price predictions.
+A decision self-check platform for moments when emotion can outrun judgment.
+[Checkzi Trade](https://checkzi.app/) is the first and currently only live
+scenario, helping people review their reasoning, position size, and emotion
+before making their own trading decision.
 
 → [Product notes](https://github.com/Cheerfay/trade-self-check-product)
 
 ### [Time to Walk](https://chromewebstore.google.com/detail/jcbldmgghanpecpbcmjdhbijjffoackf)
 
 Focus, stand, repeat. A lightweight Chrome extension that uses Pomodoro-style
-timers and fullscreen reminders to build movement into your work rhythm—even
-one second counts.
+timers and fullscreen reminders to build movement into the work rhythm, even
+if the break lasts only one second.
 
-→ [Product notes](https://github.com/Cheerfay/time-to-walk)  
+→ [Product notes](https://github.com/Cheerfay/time-to-walk)
+
 <sub>Chrome Web Store availability varies by region.</sub>
 
 ### [Cuoluo Studio](https://cuoluostudio.com/)
@@ -52,11 +54,11 @@ product judgment, prototyping, implementation, and launch.
 
 ## Working stack
 
-TypeScript · React · TanStack Start · Vite · Tailwind CSS  
-Supabase/PostgreSQL · Drizzle ORM · Better Auth · Vercel  
+TypeScript · React · TanStack Start · Vite · Tailwind CSS<br>
+Supabase/PostgreSQL · Drizzle ORM · Better Auth · Vercel<br>
 LLMs · RAG · agents · function calling
 
 ## Find me
 
-[Trade Self-Check](https://tradeselfcheck.com) ·
+[Checkzi](https://checkzi.app/) · [Cuoluo Studio](https://cuoluostudio.com/) ·
 [X / @fayemakesit](https://x.com/fayemakesit)
