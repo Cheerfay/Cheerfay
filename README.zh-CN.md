@@ -8,7 +8,7 @@
 
 ## 正在做
 
-### [Journling · 慢慢说](https://journling.app/zh)
+### [Journling · 记录吧](https://journling.app/zh)
 
 一本注重隐私的英语学习日记，把真实的中文或中英混合记录变成自然英语，也帮助真正有用的表达逐渐进入自己的主动词汇。
 
