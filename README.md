@@ -12,19 +12,23 @@ clarity and a little less friction.
 
 ### [Journling](https://journling.app/)
 
+**AI-native product · 0→1 shipped · 1→100 in progress**
+
 An English-learning journal for people who understand more English than they
-can actively express. Write about your real life in Chinese or a mix of Chinese
-and English; Journling turns it into natural English and helps you learn
-expressions that matter to you.
+can actively express. Write about your real life in Chinese or mixed language;
+AI turns it into natural English, explains the language in context, and helps
+you keep expressions that matter to you.
 
 → [Product notes](https://github.com/Cheerfay/journling-product)
 
 ### [Checkzi](https://checkzi.app/)
 
-A pre-trade self-check tool for people with some stock-trading experience who
-want to avoid rushed decisions when emotion takes over. Write down your
-rationale, position size, and emotion, see what is driving you, then decide for
-yourself whether to act.
+**AI-native product · 0→1 shipped · 1→100 in progress**
+
+An AI-guided pause before emotional trades. Write down your rationale,
+position size, and emotion; AI turns that context into a structured decision
+check that helps you see what is driving you—without stock picks or price
+predictions.
 
 → [Product notes](https://github.com/Cheerfay/trade-self-check-product)
 
