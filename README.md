@@ -12,26 +12,27 @@ clarity and a little less friction.
 
 ### [Journling](https://journling.app/)
 
-A private language-learning journal that turns real Chinese or mixed-language
-writing into natural English and helps useful expressions become part of a
-personal active vocabulary.
+An English-learning journal for people who understand more English than they
+can actively express. Write about your real life in Chinese or a mix of Chinese
+and English; Journling turns it into natural English and helps you learn
+expressions that matter to you.
 
 → [Product notes](https://github.com/Cheerfay/journling-product)
 
 ### [Checkzi](https://checkzi.app/)
 
-A decision self-check platform for moments when emotion can outrun judgment.
-[Checkzi Trade](https://checkzi.app/) is the first and currently only live
-scenario, helping people review their reasoning, position size, and emotion
-before making their own trading decision.
+A pre-trade self-check tool for people with some stock-trading experience who
+want to avoid rushed decisions when emotion takes over. Write down your
+rationale, position size, and emotion, see what is driving you, then decide for
+yourself whether to act.
 
 → [Product notes](https://github.com/Cheerfay/trade-self-check-product)
 
 ### [Time to Walk](https://chromewebstore.google.com/detail/jcbldmgghanpecpbcmjdhbijjffoackf)
 
-Focus, stand, repeat. A lightweight Chrome extension that uses Pomodoro-style
-timers and fullscreen reminders to build movement into the work rhythm, even
-if the break lasts only one second.
+A browser extension for people who spend long hours at a desk and routinely
+dismiss break reminders. After each focus interval, a fullscreen prompt that is
+harder to skip gets you out of your chair to move before you return to work.
 
 → [Product notes](https://github.com/Cheerfay/time-to-walk)
 

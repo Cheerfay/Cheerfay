@@ -10,19 +10,19 @@
 
 ### [Journling · 记录吧](https://journling.app/zh)
 
-一本注重隐私的英语学习日记，把真实的中文或中英混合记录变成自然英语，也帮助真正有用的表达逐渐进入自己的主动词汇。
+一款为“英语看得懂，却常常说不出”的学习者设计的英语学习日记。你可以先用中文或中英混合写下真实生活，它会帮你变成自然英语，并学会其中与自己最相关的表达，让英语慢慢从“看得懂”变成“说得出”。
 
 → [产品介绍](https://github.com/Cheerfay/journling-product)
 
 ### [Checkzi](https://checkzi.app/zh)
 
-一个面向重要决定的自查平台。当情绪可能跑在判断前面时，先把决定写下来，再看清是什么在推动自己。[Checkzi Trade](https://checkzi.app/zh) 是目前首个、也是唯一已经上线的场景，帮助用户在交易前检查理由、仓位和情绪，再自行做出决定。
+一款为有一定交易经验的股票交易者设计的交易决策自查工具，解决情绪上头时容易仓促下单、事后才发现理由站不住的问题。下单前写下理由、仓位和情绪，看清是什么在推动自己，再由自己决定是否行动。
 
 → [产品介绍](https://github.com/Cheerfay/trade-self-check-product)
 
 ### [Time to Walk / 久坐提醒](https://chromewebstore.google.com/detail/jcbldmgghanpecpbcmjdhbijjffoackf)
 
-专注，起身，再继续。一款用番茄钟式计时与全屏提醒，把活动自然融入工作节律的轻量 Chrome 插件，哪怕只站一秒，也算数。
+一款为久坐办公、总会顺手跳过休息提醒的人设计的浏览器插件。每次专注结束后，它会用无法轻易忽略的全屏提醒让你真正离开椅子，活动一下，再继续工作。
 
 → [产品介绍](https://github.com/Cheerfay/time-to-walk)
 
