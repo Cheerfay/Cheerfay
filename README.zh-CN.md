@@ -22,7 +22,7 @@
 
 在情绪化交易之前，由 AI 帮你暂停一下。写下理由、仓位和情绪，AI 会结合这些信息生成结构化的决策检查，帮助你看清是什么在推动自己——不荐股，也不预测价格。
 
-→ [产品介绍](https://github.com/Cheerfay/trade-self-check-product)
+→ [产品介绍](https://github.com/Cheerfay/checkzi-trade)
 
 ### [Time to Walk / 久坐提醒](https://chromewebstore.google.com/detail/jcbldmgghanpecpbcmjdhbijjffoackf)
 

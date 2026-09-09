@@ -30,7 +30,7 @@ position size, and emotion; AI turns that context into a structured decision
 check that helps you see what is driving you—without stock picks or price
 predictions.
 
-→ [Product notes](https://github.com/Cheerfay/trade-self-check-product)
+→ [Product notes](https://github.com/Cheerfay/checkzi-trade)
 
 ### [Time to Walk](https://chromewebstore.google.com/detail/jcbldmgghanpecpbcmjdhbijjffoackf)
 
