@@ -10,6 +10,14 @@ clarity and a little less friction.
 
 ## Now building
 
+### [Journling](https://journling.app/)
+
+A private language-learning journal that turns real Chinese or mixed-language
+writing into natural English and helps useful expressions become part of a
+personal active vocabulary.
+
+→ [Product notes](https://github.com/Cheerfay/journling-product)
+
 ### [Checkzi](https://checkzi.app/)
 
 A decision self-check platform for moments when emotion can outrun judgment.
@@ -60,5 +68,6 @@ LLMs · RAG · agents · function calling
 
 ## Find me
 
-[Checkzi](https://checkzi.app/) · [Cuoluo Studio](https://cuoluostudio.com/) ·
+[Journling](https://journling.app/) · [Checkzi](https://checkzi.app/) ·
+[Cuoluo Studio](https://cuoluostudio.com/) ·
 [X / @fayemakesit](https://x.com/fayemakesit)

@@ -8,6 +8,12 @@
 
 ## 正在做
 
+### [Journling · 慢慢说](https://journling.app/zh)
+
+一本注重隐私的英语学习日记，把真实的中文或中英混合记录变成自然英语，也帮助真正有用的表达逐渐进入自己的主动词汇。
+
+→ [产品介绍](https://github.com/Cheerfay/journling-product)
+
 ### [Checkzi](https://checkzi.app/zh)
 
 一个面向重要决定的自查平台。当情绪可能跑在判断前面时，先把决定写下来，再看清是什么在推动自己。[Checkzi Trade](https://checkzi.app/zh) 是目前首个、也是唯一已经上线的场景，帮助用户在交易前检查理由、仓位和情绪，再自行做出决定。
@@ -50,5 +56,6 @@ Supabase/PostgreSQL · Drizzle ORM · Better Auth · Vercel<br>
 
 ## 找到我
 
-[Checkzi](https://checkzi.app/zh) · [错落 Studio](https://cuoluostudio.com/zh) ·
+[Journling](https://journling.app/zh) · [Checkzi](https://checkzi.app/zh) ·
+[错落 Studio](https://cuoluostudio.com/zh) ·
 [X / @fayemakesit](https://x.com/fayemakesit)
